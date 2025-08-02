@@ -95,7 +95,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [memecoin-radar-mcp](https://github.com/kukapay/memecoin-radar-mcp) - Radar for Solana memecoins and Pump.fun launches.
 - [solana-launchpads-mcp](https://github.com/kukapay/solana-launchpads-mcp) - Tracks Solana launchpads’ daily activity.
 - [rug-check-mcp](https://github.com/kukapay/rug-check-mcp) - Detects risks in Solana meme tokens.
-
+- [dao-proposals-mcp](https://github.com/kukapay/dao-proposals-mcp) - An MCP server that aggregates live governance proposals from major DAOs.
 
 ### Utilities
 
