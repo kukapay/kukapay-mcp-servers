@@ -60,6 +60,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) - Streams crypto liquidation events.
 - [wormhole-metrics-mcp](https://github.com/kukapay/wormhole-metrics-mcp) - Analyzes Wormhole cross-chain activity.
 - [etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp) - Provides crypto ETF flow data.
+- [crypto-stocks-mcp](https://github.com/kukapay/crypto-stocks-mcp) - Tracks real-time data for major crypto-related stocks
 
 ### News & Information
 
