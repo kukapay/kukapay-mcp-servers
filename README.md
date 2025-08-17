@@ -81,6 +81,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) - Checks and revokes ERC-20 token allowances.
 - [bsc-multisend-mcp](https://github.com/kukapay/bsc-multisend-mcp) - Bulk BNB/BEP20 transfers on BSC.
 - [tornado-cash-mcp](https://github.com/kukapay/tornado-cash-mcp) - Tracks Tornado Cash deposits/withdrawals.
+- [ethereum-validators-queue-mcp](https://github.com/kukapay/ethereum-validators-queue-mcp) - Tracks Ethereum’s validator activation and exit queues in real time.
 
 ### Cross-Chain & Bridges
 
