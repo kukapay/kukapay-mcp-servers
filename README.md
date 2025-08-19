@@ -82,6 +82,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [bsc-multisend-mcp](https://github.com/kukapay/bsc-multisend-mcp) - Bulk BNB/BEP20 transfers on BSC.
 - [tornado-cash-mcp](https://github.com/kukapay/tornado-cash-mcp) - Tracks Tornado Cash deposits/withdrawals.
 - [ethereum-validators-queue-mcp](https://github.com/kukapay/ethereum-validators-queue-mcp) - Tracks Ethereum’s validator activation and exit queues in real time.
+- [bitcoin-utxo-mcp](https://github.com/kukapay/bitcoin-utxo-mcp) - Tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics.
 
 ### Cross-Chain & Bridges
 
