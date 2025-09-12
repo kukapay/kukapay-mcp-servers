@@ -87,6 +87,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 ### Cross-Chain & Bridges
 
 - [bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Real-time bridge rates and routing for agents.
+- [bridge-metrics-mcp](https://github.com/kukapay/bridge-metrics-mcp) - Real-time cross-chain bridge metrics
 - [chainlist-mcp](https://github.com/kukapay/chainlist-mcp) - Verified EVM chain info and RPC endpoints.
 - [wormhole-metrics-mcp](https://github.com/kukapay/wormhole-metrics-mcp) - Wormhole cross-chain analytics.
 
