@@ -2,8 +2,6 @@
 
 A comprehensive suite of Model Context Protocol (MCP) servers dedicated to cryptocurrency, blockchain, and Web3 data aggregation, analysis, and services — developed and maintained by the [Kukapay](https://github.com/kukapay).
 
----
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -18,13 +16,9 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
   - [Utilities](#utilities)
 - [License](#license)
 
----
-
 ## Introduction
 
 `kukapay-mcp-servers` aggregates all Model Context Protocol (MCP) servers developed under the Kukapay ecosystem. These servers provide structured, real-time crypto and blockchain data for agents and developers, covering DeFi, trading, market data, news, cross-chain bridging, NFTs, and more.
-
----
 
 ## Categorized Navigation
 
@@ -114,8 +108,6 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) - IP-based nearby place search.
 - [hf-trending-mcp](https://github.com/kukapay/hf-trending-mcp) - Tracks trending AI models and datasets on Hugging Face.
 
-
----
 
 ## License
 
