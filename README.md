@@ -46,6 +46,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [hyperliquid-info-mcp](https://github.com/kukapay/hyperliquid-info-mcp) - Provides Hyperliquid perp DEX data.
 - [hyperliquid-whalealert-mcp](https://github.com/kukapay/hyperliquid-whalealert-mcp) - Whale alerts for Hyperliquid.
 - [polymarket-predictions-mcp](https://github.com/kukapay/polymarket-predictions-mcp) - Delivers real-time market odds from Polymarket.
+- [dex-pools-mcp](https://github.com/kukapay/dex-pools-mcp) - Provides AI agents with real-time access to DEX liquidity pool data.
 
 ### Market Data & Analytics
 
