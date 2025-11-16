@@ -70,6 +70,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Latest crypto news from CryptoPanic.
 - [crypto-rss-mcp](https://github.com/kukapay/crypto-rss-mcp) - Aggregates crypto news from RSS feeds.
 - [crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) - Crypto sentiment analysis for agents.
+- [bybit-announcements-mcp](https://github.com/kukapay/bybit-announcements-mcp) - Latest announcements from Bybit.
 
 ### On-Chain Analysis & Wallet Tools
 
