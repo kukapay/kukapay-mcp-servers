@@ -28,6 +28,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) - Explore DeFi yield opportunities via DefiLlama.
 - [funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) - Real-time funding rates across crypto exchanges.
 - [lista-vaults-mcp](https://github.com/kukapay/lista-vaults-mcp) - Empowering AI agents to track and act across Lista DAO lending vaults.
+- [euler-vaults-mcp](https://github.com/kukapay/euler-vaults-mcp) - Instant access to Euler Finance lending vaults.
 
 ### DEX & Trading Tools
 
