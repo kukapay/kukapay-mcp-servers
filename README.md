@@ -74,6 +74,8 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) - Crypto sentiment analysis for agents.
 - [binance-announcements-mcp](https://github.com/kukapay/binance-announcements-mcp) - Latest announcements from Binance.
 - [bybit-announcements-mcp](https://github.com/kukapay/bybit-announcements-mcp) - Latest announcements from Bybit.
+- [kukapay-news-mcp](https://github.com/kukapay/kukapay-news-mcp) - Publicly hosted MCP server for aggregated crypto news.
+
 
 ### On-Chain Analysis & Wallet Tools
 
