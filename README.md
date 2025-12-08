@@ -91,6 +91,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [ethereum-validators-queue-mcp](https://github.com/kukapay/ethereum-validators-queue-mcp) - Tracks Ethereum’s validator activation and exit queues in real time.
 - [bitcoin-utxo-mcp](https://github.com/kukapay/bitcoin-utxo-mcp) - Tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics.
 - [findblock-mcp](https://github.com/kukapay/findblock-mcp) - Retrieves block numbers by timestamp.
+- [contract-scraper-mcp](https://github.com/kukapay/contract-scraper-mcp) - Scrapes verified smart-contract source code and ABIs across multiple blockchains.
 
 ### Cross-Chain & Bridges
 
