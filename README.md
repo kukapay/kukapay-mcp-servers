@@ -77,6 +77,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [kukapay-news-mcp](https://github.com/kukapay/kukapay-news-mcp) - Publicly hosted MCP server for aggregated crypto news.
 - [gate-announcements-mcp](https://github.com/kukapay/gate-announcements-mcp) - Latest announcements from Gate.io.
 - [okx-announcements-mcp](https://github.com/kukapay/okx-announcements-mcp) - Latest announcements from OKX.
+- [mexc-announcements-mcp](https://github.com/kukapay/mexc-announcements-mcp) - Latest announcements from MEXC.
 
 ### On-Chain Analysis & Wallet Tools
 
