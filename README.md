@@ -52,6 +52,7 @@ A comprehensive suite of Model Context Protocol (MCP) servers dedicated to crypt
 - [stargate-bridge-mcp](https://github.com/kukapay/stargate-bridge-mcp) - Enabling cross-chain token transfers via the Stargate protocol.
 - [alpha-arena-mcp](https://github.com/kukapay/alpha-arena-mcp) - Delivers hyperliquid account data, perpetuals market context, and trading tools for AI agents.
 - [backtrader-mcp](https://github.com/kukapay/backtrader-mcp) - Turns Backtrader into an AI-accessible trading sandbox.
+- [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) - Provides real-time trending tokens from DexScreener.
 
 ### Market Data & Analytics
 
